@@ -1,0 +1,12 @@
+D:\VideoConversion\AmaraVideoClientConsole\obj\Debug\AmaraVideoClientConsole.csprojResolveAssemblyReference.cache
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\AmaraVideoClientConsole.exe.config
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\AmaraVideoClientConsole.exe
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\AmaraVideoClientConsole.pdb
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\AmaraVideoClient.dll
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\Newtonsoft.Json.dll
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\AmaraVideoClient.pdb
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\VideoConversion\AmaraVideoClientConsole\bin\Debug\Newtonsoft.Json.xml
+D:\VideoConversion\AmaraVideoClientConsole\obj\Debug\AmaraVideoClientConsole.exe
+D:\VideoConversion\AmaraVideoClientConsole\obj\Debug\AmaraVideoClientConsole.pdb
